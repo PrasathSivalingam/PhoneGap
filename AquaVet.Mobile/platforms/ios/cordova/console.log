@@ -1,8 +1,69 @@
-2014-04-24 04:03:53.273 AquaVet[29084:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-24 04:03:53.285 AquaVet[29084:70b] Unlimited access to network resources
-2014-04-24 04:03:53.834 AquaVet[29084:70b] Resetting plugins due to page load.
-2014-04-24 04:03:54.338 AquaVet[29084:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
-2014-04-24 04:06:19.935 AquaVet[29367:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-24 04:06:19.946 AquaVet[29367:70b] Unlimited access to network resources
-2014-04-24 04:06:20.148 AquaVet[29367:70b] Resetting plugins due to page load.
-2014-04-24 04:06:20.234 AquaVet[29367:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:16:03.213 AquaVet[34778:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:16:03.221 AquaVet[34778:70b] Unlimited access to network resources
+2014-04-24 11:16:03.375 AquaVet[34778:70b] Resetting plugins due to page load.
+2014-04-24 11:16:03.606 AquaVet[34778:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:17:59.070 AquaVet[35303:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:17:59.108 AquaVet[35303:70b] Unlimited access to network resources
+2014-04-24 11:17:59.455 AquaVet[35303:70b] Resetting plugins due to page load.
+2014-04-24 11:17:59.575 AquaVet[35303:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:27:13.648 AquaVet[36858:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:27:13.656 AquaVet[36858:70b] Unlimited access to network resources
+2014-04-24 11:27:13.937 AquaVet[36858:70b] Resetting plugins due to page load.
+2014-04-24 11:27:14.206 AquaVet[36858:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:33:12.837 AquaVet[38373:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:33:12.885 AquaVet[38373:70b] Unlimited access to network resources
+2014-04-24 11:33:13.500 AquaVet[38373:70b] Resetting plugins due to page load.
+2014-04-24 11:33:13.909 AquaVet[38373:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:34:30.050 AquaVet[38373:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-24 11:36:33.137 AquaVet[39293:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:36:33.146 AquaVet[39293:70b] Unlimited access to network resources
+2014-04-24 11:36:33.476 AquaVet[39293:70b] Resetting plugins due to page load.
+2014-04-24 11:36:33.643 AquaVet[39293:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:37:23.957 AquaVet[39293:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-24 11:43:04.912 AquaVet[40223:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:43:04.919 AquaVet[40223:70b] Unlimited access to network resources
+2014-04-24 11:43:05.472 AquaVet[40223:70b] Resetting plugins due to page load.
+2014-04-24 11:43:06.133 AquaVet[40223:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:50:51.494 AquaVet[41148:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:50:51.532 AquaVet[41148:70b] Unlimited access to network resources
+2014-04-24 11:50:52.024 AquaVet[41148:70b] Resetting plugins due to page load.
+2014-04-24 11:50:52.419 AquaVet[41148:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:53:11.025 AquaVet[41148:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-24 11:55:55.595 AquaVet[42061:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:55:55.633 AquaVet[42061:70b] Unlimited access to network resources
+2014-04-24 11:55:57.217 AquaVet[42061:70b] Resetting plugins due to page load.
+2014-04-24 11:55:57.414 AquaVet[42061:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:57:08.316 AquaVet[42948:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:57:08.333 AquaVet[42948:70b] Unlimited access to network resources
+2014-04-24 11:57:08.638 AquaVet[42948:70b] Resetting plugins due to page load.
+2014-04-24 11:57:08.756 AquaVet[42948:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 11:58:40.172 AquaVet[43840:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 11:58:40.199 AquaVet[43840:70b] Unlimited access to network resources
+2014-04-24 11:58:40.519 AquaVet[43840:70b] Resetting plugins due to page load.
+2014-04-24 11:58:40.661 AquaVet[43840:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:04:59.572 AquaVet[44753:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:04:59.611 AquaVet[44753:70b] Unlimited access to network resources
+2014-04-24 12:04:59.894 AquaVet[44753:70b] Resetting plugins due to page load.
+2014-04-24 12:05:00.024 AquaVet[44753:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:08:07.261 AquaVet[45656:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:08:07.287 AquaVet[45656:70b] Unlimited access to network resources
+2014-04-24 12:08:07.531 AquaVet[45656:70b] Resetting plugins due to page load.
+2014-04-24 12:08:07.638 AquaVet[45656:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:10:16.578 AquaVet[46547:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:10:16.585 AquaVet[46547:70b] Unlimited access to network resources
+2014-04-24 12:10:16.646 AquaVet[46547:70b] Resetting plugins due to page load.
+2014-04-24 12:10:16.714 AquaVet[46547:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:14:28.005 AquaVet[47035:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:14:28.020 AquaVet[47035:70b] Unlimited access to network resources
+2014-04-24 12:14:28.221 AquaVet[47035:70b] Resetting plugins due to page load.
+2014-04-24 12:14:28.326 AquaVet[47035:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:14:44.364 AquaVet[47035:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-24 12:19:02.850 AquaVet[47953:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:19:02.864 AquaVet[47953:70b] Unlimited access to network resources
+2014-04-24 12:19:03.076 AquaVet[47953:70b] Resetting plugins due to page load.
+2014-04-24 12:19:03.225 AquaVet[47953:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-24 12:19:14.298 AquaVet[47953:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-24 12:20:38.344 AquaVet[48418:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-24 12:20:38.351 AquaVet[48418:70b] Unlimited access to network resources
+2014-04-24 12:20:38.410 AquaVet[48418:70b] Resetting plugins due to page load.
+2014-04-24 12:20:38.476 AquaVet[48418:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html

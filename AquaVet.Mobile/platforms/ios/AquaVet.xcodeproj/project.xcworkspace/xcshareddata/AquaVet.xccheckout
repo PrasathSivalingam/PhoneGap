@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CEC4E941-2C51-456D-A04F-AC16E4EF7150</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AquaVet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40CF5EB0-E245-4ADC-A364-32C1E80AE4DB</key>
+		<string>https://github.com/PrasathSivalingam/PhoneGap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AquaVet.Mobile/platforms/ios/AquaVet.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40CF5EB0-E245-4ADC-A364-32C1E80AE4DB</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PrasathSivalingam/PhoneGap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40CF5EB0-E245-4ADC-A364-32C1E80AE4DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40CF5EB0-E245-4ADC-A364-32C1E80AE4DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PhoneGap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
