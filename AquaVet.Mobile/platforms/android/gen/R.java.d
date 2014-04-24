@@ -1,4 +1,4 @@
-/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/gen/no/ocea/aquavet/R.java \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/gen/com/example/www/R.java \
  : /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable/icon.png \
 /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-hdpi/icon.png \
 /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-ldpi/icon.png \
