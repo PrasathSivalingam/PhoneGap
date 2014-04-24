@@ -22,7 +22,6 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
 
         // Enable debug message to show in the console 
         system.debug(true);
-       alert("inside main");
         app.title = 'AquaVet';
         
         // Specify which plugins to install und their configuation
