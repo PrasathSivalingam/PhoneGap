@@ -1,27 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<widget id="com.example.www" version="1.0.0" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
-  <name>www</name>
-  <description>
-  </description>
-  <author email="sprasath@gmail.com">sprasath@gmail.com</author>
-  <access origin="*" />
-  <preference name="phonegap-version" value="3.0.0" />
-  <gap:plugin name="org.apache.cordova.battery-status" />
-  <gap:plugin name="org.apache.cordova.camera" />
-  <gap:plugin name="org.apache.cordova.media-capture" />
-  <gap:plugin name="org.apache.cordova.console" />
-  <gap:plugin name="org.apache.cordova.contacts" />
-  <gap:plugin name="org.apache.cordova.device" />
-  <gap:plugin name="org.apache.cordova.device-motion" />
-  <gap:plugin name="org.apache.cordova.device-orientation" />
-  <gap:plugin name="org.apache.cordova.file" />
-  <gap:plugin name="org.apache.cordova.file-transfer" />
-  <gap:plugin name="org.apache.cordova.geolocation" />
-  <gap:plugin name="org.apache.cordova.globalization" />
-  <gap:plugin name="org.apache.cordova.inappbrowser" />
-  <gap:plugin name="org.apache.cordova.media" />
-  <gap:plugin name="org.apache.cordova.network-information" />
-  <gap:plugin name="org.apache.cordova.dialogs" />
-  <gap:plugin name="org.apache.cordova.splashscreen" />
-  <gap:plugin name="org.apache.cordova.vibration" />
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="no.ocea.aquavet" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>AquaVet</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
 </widget>

@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.example.www.AquaVet { <init>(...); }
+-keep class no.ocea.aquavet.AquaVet { <init>(...); }
 
