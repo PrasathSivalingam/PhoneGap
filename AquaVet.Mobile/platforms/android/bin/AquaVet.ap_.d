@@ -1,0 +1,25 @@
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/AquaVet.ap_ \
+ : /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-hdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-ldpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-mdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/values/strings.xml \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/res/xml/config.xml \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/res/drawable/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/config.xml \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/cordova.js \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/cordova_plugins.js \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/css \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/img \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/index.html \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/js \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/css/index.css \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/img/logo.png \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/assets/www/js/index.js \
+/Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/android/bin/AndroidManifest.xml \
