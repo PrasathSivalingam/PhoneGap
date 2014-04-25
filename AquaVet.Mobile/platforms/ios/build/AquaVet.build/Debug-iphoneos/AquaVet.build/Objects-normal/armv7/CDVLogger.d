@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/AquaVet/Plugins/org.apache.cordova.console/CDVLogger.m \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/AquaVet/Plugins/org.apache.cordova.console/CDVLogger.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVPlugin.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVPluginResult.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVAvailability.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDV.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVViewController.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVWhitelist.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVDebug.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVTimer.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/NSData+Base64.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h \
+  /Users/oceabergen/Mercatus/AquaVet/Mobile/PhoneGap/AquaVet.Mobile/platforms/ios/build/device/include/Cordova/CDVJSON.h

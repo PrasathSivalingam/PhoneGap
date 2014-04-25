@@ -16,13 +16,14 @@
                }
                }
 });
+define('jquery', function () { return jQuery; });
+define('knockout', ko);
 
 define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
     function(app, viewLocator, system) {
 
         // Enable debug message to show in the console 
         system.debug(true);
-       alert("inside main");
         app.title = 'AquaVet';
         
         // Specify which plugins to install und their configuation
@@ -31,7 +32,6 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
             dialog: true,
             widget:true
         });
-       alert("inside main:phonegapApp");
        var phonegapApp = {
        // Application Constructor
        initialize: function() {
@@ -42,31 +42,37 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
        // Bind any events that are required on startup. Common events are:
        // 'load', 'deviceready', 'offline', and 'online'.
        bindEvents: function() {
-       document.addEventListener('deviceready', this.onDeviceReady, false);
+           document.addEventListener('deviceready', this.onDeviceReady, false);
+           document.addEventListener('dataLoaded', this.onDataLoaded, false);
        },
        // deviceready Event Handler
        //
        // The scope of 'this' is the event. In order to call the 'receivedEvent'
        // function, we must explicity call 'app.receivedEvent(...);'
        onDeviceReady: function() {
-       alert("inside main:onDeviceReady");
        phonegapApp.receivedEvent('deviceready');
        },
+       onDataLoaded: function () {
+           phonegapApp.receivedEvent('splash');
+       },
        // Update DOM on a Received Event
-       receivedEvent: function(id) {
-       var parentElement = document.getElementById(id);
-       var listeningElement = parentElement.querySelector('.listening');
-       var receivedElement = parentElement.querySelector('.received');
+       receivedEvent: function (id) {
+           var parentElement = document.getElementById(id);
+           if (id == 'deviceready') {
+               var listeningElement = parentElement.querySelector('.listening');
+               var receivedElement = parentElement.querySelector('.received');
+
+               listeningElement.setAttribute('style', 'display:none;');
+               receivedElement.setAttribute('style', 'display:block;');
+           } else {
+               parentElement.setAttribute('style', 'display:none;');
+           }
        
-       listeningElement.setAttribute('style', 'display:none;');
-       receivedElement.setAttribute('style', 'display:block;');
-       
-       alert('Received Event: ' + id);
+       console.log('Received Event: ' + id);
        }
        };
-alert("inside main:app.start()");
         app.start().then(function() {
-                         alert("inside main:app.started");
+                         
             // Q shim
             /*system.defer = function(action) {
                 var deferred = Q.defer();
@@ -92,7 +98,6 @@ alert("inside main:app.start()");
 
             //Show the app by setting the root view model for our application.
             app.setRoot('viewmodels/shell', 'entrance');
-                         alert("inside main:phonegapApp.initialize()");
-                         phonegapApp.initialize();
+            phonegapApp.initialize();
         });
     });

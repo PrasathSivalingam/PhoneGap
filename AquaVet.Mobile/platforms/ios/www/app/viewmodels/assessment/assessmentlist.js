@@ -14,8 +14,10 @@
         };
         AssessmentList.prototype.activate = function (settings) {
             return this.loadAssessments().then(function () {
-                alert("success");
-            }).fail(function(error) { alert("faild"+error); });
+                var event = new Event('dataLoaded');
+                document.dispatchEvent(event);
+                                               alert("feeling good");
+            }).fail(function (error) { alert("faild" + error); });
         };
 
         AssessmentList.prototype.deactivate = function () {
