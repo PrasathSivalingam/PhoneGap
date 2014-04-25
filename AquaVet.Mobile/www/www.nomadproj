@@ -5,13 +5,16 @@
     <SchemaVersion>2.0</SchemaVersion>
     <CompiledOutputPath>distrib\</CompiledOutputPath>
     <OutputPath>bin\$(Configuration)</OutputPath>
-    <CordovaVersion>3.0</CordovaVersion>
+    <CordovaVersion>3.3</CordovaVersion>
     <BuildCloudVersion>2.0</BuildCloudVersion>
     <Name>www</Name>
     <RootNamespace>www</RootNamespace>
     <ProjectGuid>{401e664a-338d-4fb3-ac68-2800cc54fab9}</ProjectGuid>
     <CertificatePath>Certificates\2014-04-18 - Nomad User</CertificatePath>
     <ProvisioningProfilePath>ProvisioningProfiles\ProfileAquaVet.mobileprovision</ProvisioningProfilePath>
+    <BundleID>no.ocea.aquavet</BundleID>
+    <Description />
+    <ProjectName>AquaVet</ProjectName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -45,6 +48,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="app\services\utilities.js">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="app\utils\routines.js">
       <SubType>Content</SubType>
     </Content>
     <Content Include="app\viewmodels\assessment\assessmentlist.js">
@@ -98,10 +104,331 @@
     <Content Include="css\ie10mobile.css">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="css\images\ajax-loader.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\action-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\action-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\alert-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\alert-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-l-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-l-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-r-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-r-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-d-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-l-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-l-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-r-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-r-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-l-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-l-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-r-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-r-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\arrow-u-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\audio-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\audio-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\back-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\back-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\bars-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\bars-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\bullets-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\bullets-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\calendar-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\calendar-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\camera-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\camera-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-d-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-d-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-l-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-l-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-r-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-r-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-u-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\carat-u-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\check-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\check-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\clock-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\clock-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\cloud-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\cloud-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\comment-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\comment-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\delete-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\delete-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\edit-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\edit-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\eye-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\eye-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\forbidden-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\forbidden-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\forward-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\forward-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\gear-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\gear-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\grid-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\grid-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\heart-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\heart-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\home-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\home-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\info-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\info-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\location-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\location-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\lock-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\lock-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\mail-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\mail-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\minus-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\minus-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\navigation-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\navigation-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\phone-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\phone-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\plus-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\plus-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\power-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\power-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\recycle-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\recycle-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\refresh-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\refresh-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\search-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\search-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\shop-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\shop-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\star-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\star-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\tag-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\tag-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\user-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\user-white.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\video-black.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\images\icons-png\video-white.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="css\index.css">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="css\jquery.mobile-1.4.2.min.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\jquery.mobile.structure-1.4.2.min.css">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="css\samples.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\themes\aquavet-theme.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\themes\aquavet-theme.min.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="css\themes\jquery.mobile.icons.min.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="icons\ios\Default-Landscape~ipad.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\logo.png">
@@ -198,10 +525,13 @@
     <Content Include="js\jquery-2.1.0.min.map">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="js\jquery.mobile-1.2.0.min.js">
+    <Content Include="js\jquery.mobile\jqm-config.js">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="css\jquery.mobile-1.2.0.min.css">
+    <Content Include="js\jquery.mobile\jquery.mobile-1.4.2.js">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="js\jquery.mobile\jquery.mobile-1.4.2.min.js">
       <SubType>Content</SubType>
     </Content>
     <Content Include="js\knockout-3.1.0.debug.js">
@@ -229,6 +559,7 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\model" />
+    <Folder Include="app\utils" />
     <Folder Include="app\services" />
     <Folder Include="app\viewmodels" />
     <Folder Include="app\viewmodels\assessment" />
@@ -238,11 +569,17 @@
     <Folder Include="app\widgets\itemscontrol" />
     <Folder Include="css\" />
     <Folder Include="css\fontawesome" />
+    <Folder Include="css\images\" />
+    <Folder Include="css\images\icons-png\" />
+    <Folder Include="css\themes" />
+    <Folder Include="icons\ios" />
     <Folder Include="img\" />
     <Folder Include="js\" />
     <Folder Include="js\durandal" />
     <Folder Include="js\durandal\plugins" />
     <Folder Include="js\durandal\transitions" />
+    <Folder Include="icons" />
+    <Folder Include="js\jquery.mobile" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.Common.targets" />
   <Target Name="ResolveReferences" />

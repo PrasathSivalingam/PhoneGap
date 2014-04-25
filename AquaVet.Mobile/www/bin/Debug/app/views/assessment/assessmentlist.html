@@ -1,4 +1,5 @@
 ﻿<div>
-    <div data-bind="widget: { kind: 'itemsControl', items: al.assessments, headerProperty: 'assessmentId' }, sortTableAtUpdate:  vm.events">
-    </div>
+    <ul data-role="listview" data-inset="true" data-bind="foreach: { data: al.assessments}">
+        <li><a href="#" data-bind="text:assessmentDiscriminator"></a></li>
+    </ul>
 </div>
