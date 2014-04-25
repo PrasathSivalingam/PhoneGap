@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="no.ocea.aquavet" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>AquaVet</name>
+  <description>
+  </description>
+  <content src="index.html" />
+  <author email="sprasath@gmail.com">sprasath@gmail.com</author>
+  <access origin="*" />
+  <preference name="phonegap-version" value="3.0.0" />
+</widget>
