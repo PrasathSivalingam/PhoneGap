@@ -144,3 +144,335 @@
 2014-04-25 13:15:00.622 AquaVet[32106:70b] Binding views/shell [object Object]
 2014-04-25 13:15:00.702 AquaVet[32106:70b] Binding views/assessment/assessmentlist [object Object]
 2014-04-25 13:15:02.234 AquaVet[32106:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:40:14.190 AquaVet[33555:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:40:14.197 AquaVet[33555:70b] Unlimited access to network resources
+2014-04-25 13:40:14.610 AquaVet[33555:70b] Resetting plugins due to page load.
+2014-04-25 13:40:14.898 AquaVet[33555:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:40:14.930 AquaVet[33555:70b] Debug:Enabled
+2014-04-25 13:40:14.930 AquaVet[33555:70b] Application:Starting
+2014-04-25 13:40:14.957 AquaVet[33555:70b] Plugin:Installed plugins/router
+2014-04-25 13:40:14.957 AquaVet[33555:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:40:14.958 AquaVet[33555:70b] Plugin:Installed plugins/widget
+2014-04-25 13:40:14.958 AquaVet[33555:70b] Received Event: deviceready
+2014-04-25 13:40:14.958 AquaVet[33555:70b] Application:Started
+2014-04-25 13:40:18.624 AquaVet[33555:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:40:19.541 AquaVet[33555:70b] Activating [object Object]
+2014-04-25 13:40:19.744 AquaVet[33555:70b] Received Event: splash
+2014-04-25 13:40:41.027 AquaVet[33555:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-25 13:40:41.059 AquaVet[33555:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:40:41.060 AquaVet[33555:70b] Binding views/shell [object Object]
+2014-04-25 13:40:41.142 AquaVet[33555:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 13:40:43.350 AquaVet[33555:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:41:38.290 AquaVet[34228:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:41:38.323 AquaVet[34228:70b] Unlimited access to network resources
+2014-04-25 13:41:38.543 AquaVet[34228:70b] Resetting plugins due to page load.
+2014-04-25 13:41:38.818 AquaVet[34228:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:41:38.856 AquaVet[34228:70b] Debug:Enabled
+2014-04-25 13:41:38.856 AquaVet[34228:70b] Application:Starting
+2014-04-25 13:41:38.882 AquaVet[34228:70b] Plugin:Installed plugins/router
+2014-04-25 13:41:38.882 AquaVet[34228:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:41:38.883 AquaVet[34228:70b] Plugin:Installed plugins/widget
+2014-04-25 13:41:38.883 AquaVet[34228:70b] Received Event: deviceready
+2014-04-25 13:41:38.883 AquaVet[34228:70b] Application:Started
+2014-04-25 13:41:43.166 AquaVet[34228:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:41:44.109 AquaVet[34228:70b] Activating [object Object]
+2014-04-25 13:41:44.322 AquaVet[34228:70b] Received Event: splash
+2014-04-25 13:41:46.127 AquaVet[34228:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:41:46.128 AquaVet[34228:70b] Binding views/shell [object Object]
+2014-04-25 13:41:46.206 AquaVet[34228:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 13:41:47.632 AquaVet[34228:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:43:48.293 AquaVet[34905:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:43:48.300 AquaVet[34905:70b] Unlimited access to network resources
+2014-04-25 13:43:48.358 AquaVet[34905:70b] Resetting plugins due to page load.
+2014-04-25 13:43:48.549 AquaVet[34905:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:43:48.591 AquaVet[34905:70b] Debug:Enabled
+2014-04-25 13:43:48.592 AquaVet[34905:70b] Application:Starting
+2014-04-25 13:43:48.678 AquaVet[34905:70b] Plugin:Installed plugins/router
+2014-04-25 13:43:48.678 AquaVet[34905:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:43:48.678 AquaVet[34905:70b] Plugin:Installed plugins/widget
+2014-04-25 13:43:48.679 AquaVet[34905:70b] Received Event: deviceready
+2014-04-25 13:43:48.679 AquaVet[34905:70b] Application:Started
+2014-04-25 13:43:52.325 AquaVet[34905:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:43:53.212 AquaVet[34905:70b] Activating [object Object]
+2014-04-25 13:43:53.412 AquaVet[34905:70b] Received Event: splash
+2014-04-25 13:43:58.391 AquaVet[34905:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:43:58.392 AquaVet[34905:70b] Binding views/shell [object Object]
+2014-04-25 13:43:58.473 AquaVet[34905:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 13:43:59.922 AquaVet[34905:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:47:24.388 AquaVet[35581:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:47:24.395 AquaVet[35581:70b] Unlimited access to network resources
+2014-04-25 13:47:24.677 AquaVet[35581:70b] Resetting plugins due to page load.
+2014-04-25 13:47:24.938 AquaVet[35581:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:47:24.969 AquaVet[35581:70b] Debug:Enabled
+2014-04-25 13:47:24.969 AquaVet[35581:70b] Application:Starting
+2014-04-25 13:47:24.995 AquaVet[35581:70b] Plugin:Installed plugins/router
+2014-04-25 13:47:24.995 AquaVet[35581:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:47:24.995 AquaVet[35581:70b] Plugin:Installed plugins/widget
+2014-04-25 13:47:24.996 AquaVet[35581:70b] Received Event: deviceready
+2014-04-25 13:47:24.996 AquaVet[35581:70b] Application:Started
+2014-04-25 13:47:29.229 AquaVet[35581:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:47:30.158 AquaVet[35581:70b] Activating [object Object]
+2014-04-25 13:47:30.359 AquaVet[35581:70b] Received Event: splash
+2014-04-25 13:47:32.000 AquaVet[35581:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:47:32.000 AquaVet[35581:70b] Binding views/shell [object Object]
+2014-04-25 13:47:32.080 AquaVet[35581:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 13:47:33.584 AquaVet[35581:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:49:19.647 AquaVet[36254:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:49:19.653 AquaVet[36254:70b] Unlimited access to network resources
+2014-04-25 13:49:19.713 AquaVet[36254:70b] Resetting plugins due to page load.
+2014-04-25 13:49:19.919 AquaVet[36254:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:49:19.950 AquaVet[36254:70b] Debug:Enabled
+2014-04-25 13:49:19.951 AquaVet[36254:70b] Application:Starting
+2014-04-25 13:49:19.977 AquaVet[36254:70b] Plugin:Installed plugins/router
+2014-04-25 13:49:19.978 AquaVet[36254:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:49:19.978 AquaVet[36254:70b] Plugin:Installed plugins/widget
+2014-04-25 13:49:19.978 AquaVet[36254:70b] Received Event: deviceready
+2014-04-25 13:49:19.979 AquaVet[36254:70b] Application:Started
+2014-04-25 13:49:24.247 AquaVet[36254:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:49:25.217 AquaVet[36254:70b] Activating [object Object]
+2014-04-25 13:49:25.431 AquaVet[36254:70b] Received Event: splash
+2014-04-25 13:49:27.178 AquaVet[36254:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:49:27.179 AquaVet[36254:70b] Binding views/shell [object Object]
+2014-04-25 13:51:43.633 AquaVet[36929:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:51:43.641 AquaVet[36929:70b] Unlimited access to network resources
+2014-04-25 13:51:43.843 AquaVet[36929:70b] Resetting plugins due to page load.
+2014-04-25 13:51:44.078 AquaVet[36929:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:51:44.106 AquaVet[36929:70b] Debug:Enabled
+2014-04-25 13:51:44.106 AquaVet[36929:70b] Application:Starting
+2014-04-25 13:51:44.132 AquaVet[36929:70b] Plugin:Installed plugins/router
+2014-04-25 13:51:44.132 AquaVet[36929:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:51:44.132 AquaVet[36929:70b] Plugin:Installed plugins/widget
+2014-04-25 13:51:44.133 AquaVet[36929:70b] Received Event: deviceready
+2014-04-25 13:51:44.133 AquaVet[36929:70b] Application:Started
+2014-04-25 13:51:47.756 AquaVet[36929:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:51:48.752 AquaVet[36929:70b] Activating [object Object]
+2014-04-25 13:51:48.954 AquaVet[36929:70b] Received Event: splash
+2014-04-25 13:52:05.210 AquaVet[36929:3e07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-25 13:52:05.230 AquaVet[36929:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:52:05.231 AquaVet[36929:70b] Binding views/shell [object Object]
+2014-04-25 13:52:51.882 AquaVet[37597:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:52:51.889 AquaVet[37597:70b] Unlimited access to network resources
+2014-04-25 13:52:52.012 AquaVet[37597:70b] Resetting plugins due to page load.
+2014-04-25 13:52:52.232 AquaVet[37597:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:52:52.276 AquaVet[37597:70b] Debug:Enabled
+2014-04-25 13:52:52.277 AquaVet[37597:70b] Application:Starting
+2014-04-25 13:52:52.310 AquaVet[37597:70b] Plugin:Installed plugins/router
+2014-04-25 13:52:52.311 AquaVet[37597:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:52:52.311 AquaVet[37597:70b] Plugin:Installed plugins/widget
+2014-04-25 13:52:52.311 AquaVet[37597:70b] Received Event: deviceready
+2014-04-25 13:52:52.312 AquaVet[37597:70b] Application:Started
+2014-04-25 13:52:55.985 AquaVet[37597:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:52:56.917 AquaVet[37597:70b] Activating [object Object]
+2014-04-25 13:52:57.112 AquaVet[37597:70b] Received Event: splash
+2014-04-25 13:52:58.962 AquaVet[37597:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 13:52:58.962 AquaVet[37597:70b] Binding views/shell [object Object]
+2014-04-25 13:52:59.040 AquaVet[37597:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 13:53:00.482 AquaVet[37597:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 13:59:28.598 AquaVet[38282:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 13:59:28.605 AquaVet[38282:70b] Unlimited access to network resources
+2014-04-25 13:59:28.726 AquaVet[38282:70b] Resetting plugins due to page load.
+2014-04-25 13:59:28.965 AquaVet[38282:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 13:59:29.006 AquaVet[38282:70b] Debug:Enabled
+2014-04-25 13:59:29.006 AquaVet[38282:70b] Application:Starting
+2014-04-25 13:59:29.032 AquaVet[38282:70b] Plugin:Installed plugins/router
+2014-04-25 13:59:29.032 AquaVet[38282:70b] Plugin:Installed plugins/dialog
+2014-04-25 13:59:29.033 AquaVet[38282:70b] Plugin:Installed plugins/widget
+2014-04-25 13:59:29.033 AquaVet[38282:70b] Received Event: deviceready
+2014-04-25 13:59:29.033 AquaVet[38282:70b] Application:Started
+2014-04-25 13:59:32.420 AquaVet[38282:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 13:59:33.302 AquaVet[38282:70b] Activating [object Object]
+2014-04-25 13:59:33.508 AquaVet[38282:70b] Received Event: splash
+2014-04-25 14:00:05.436 AquaVet[38282:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-25 14:00:05.457 AquaVet[38282:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:00:05.458 AquaVet[38282:70b] Binding views/shell [object Object]
+2014-04-25 14:00:05.534 AquaVet[38282:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:00:07.024 AquaVet[38282:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:02:01.998 AquaVet[38958:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:02:02.004 AquaVet[38958:70b] Unlimited access to network resources
+2014-04-25 14:02:02.064 AquaVet[38958:70b] Resetting plugins due to page load.
+2014-04-25 14:02:02.295 AquaVet[38958:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:02:02.323 AquaVet[38958:70b] Debug:Enabled
+2014-04-25 14:02:02.323 AquaVet[38958:70b] Application:Starting
+2014-04-25 14:02:02.347 AquaVet[38958:70b] Plugin:Installed plugins/router
+2014-04-25 14:02:02.347 AquaVet[38958:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:02:02.347 AquaVet[38958:70b] Plugin:Installed plugins/widget
+2014-04-25 14:02:02.348 AquaVet[38958:70b] Received Event: deviceready
+2014-04-25 14:02:02.348 AquaVet[38958:70b] Application:Started
+2014-04-25 14:02:06.134 AquaVet[38958:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:02:07.235 AquaVet[38958:70b] Activating [object Object]
+2014-04-25 14:02:07.671 AquaVet[38958:70b] Received Event: splash
+2014-04-25 14:02:09.777 AquaVet[38958:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:02:09.778 AquaVet[38958:70b] Binding views/shell [object Object]
+2014-04-25 14:02:09.856 AquaVet[38958:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:02:11.436 AquaVet[38958:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:04:36.222 AquaVet[39635:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:04:36.241 AquaVet[39635:70b] Unlimited access to network resources
+2014-04-25 14:04:36.497 AquaVet[39635:70b] Resetting plugins due to page load.
+2014-04-25 14:04:36.934 AquaVet[39635:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:04:36.959 AquaVet[39635:70b] Debug:Enabled
+2014-04-25 14:04:36.960 AquaVet[39635:70b] Application:Starting
+2014-04-25 14:04:36.985 AquaVet[39635:70b] Plugin:Installed plugins/router
+2014-04-25 14:04:36.985 AquaVet[39635:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:04:36.986 AquaVet[39635:70b] Plugin:Installed plugins/widget
+2014-04-25 14:04:36.986 AquaVet[39635:70b] Received Event: deviceready
+2014-04-25 14:04:36.986 AquaVet[39635:70b] Application:Started
+2014-04-25 14:04:40.959 AquaVet[39635:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:04:41.841 AquaVet[39635:70b] Activating [object Object]
+2014-04-25 14:04:42.041 AquaVet[39635:70b] Received Event: splash
+2014-04-25 14:04:44.455 AquaVet[39635:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:04:44.456 AquaVet[39635:70b] Binding views/shell [object Object]
+2014-04-25 14:04:44.467 AquaVet[39635:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:04:45.693 AquaVet[39635:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:05:27.077 AquaVet[40302:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:05:27.084 AquaVet[40302:70b] Unlimited access to network resources
+2014-04-25 14:05:27.204 AquaVet[40302:70b] Resetting plugins due to page load.
+2014-04-25 14:05:27.436 AquaVet[40302:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:05:27.466 AquaVet[40302:70b] Debug:Enabled
+2014-04-25 14:05:27.466 AquaVet[40302:70b] Application:Starting
+2014-04-25 14:05:27.499 AquaVet[40302:70b] Plugin:Installed plugins/router
+2014-04-25 14:05:27.499 AquaVet[40302:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:05:27.499 AquaVet[40302:70b] Plugin:Installed plugins/widget
+2014-04-25 14:05:27.499 AquaVet[40302:70b] Received Event: deviceready
+2014-04-25 14:05:27.500 AquaVet[40302:70b] Application:Started
+2014-04-25 14:05:31.399 AquaVet[40302:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:05:32.300 AquaVet[40302:70b] Activating [object Object]
+2014-04-25 14:05:32.500 AquaVet[40302:70b] Received Event: splash
+2014-04-25 14:05:34.540 AquaVet[40302:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:05:34.540 AquaVet[40302:70b] Binding views/shell [object Object]
+2014-04-25 14:05:34.621 AquaVet[40302:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:05:36.208 AquaVet[40302:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:06:26.756 AquaVet[40970:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:06:26.763 AquaVet[40970:70b] Unlimited access to network resources
+2014-04-25 14:06:27.045 AquaVet[40970:70b] Resetting plugins due to page load.
+2014-04-25 14:06:27.298 AquaVet[40970:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:06:27.326 AquaVet[40970:70b] Debug:Enabled
+2014-04-25 14:06:27.326 AquaVet[40970:70b] Application:Starting
+2014-04-25 14:06:27.350 AquaVet[40970:70b] Plugin:Installed plugins/router
+2014-04-25 14:06:27.350 AquaVet[40970:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:06:27.351 AquaVet[40970:70b] Plugin:Installed plugins/widget
+2014-04-25 14:06:27.351 AquaVet[40970:70b] Received Event: deviceready
+2014-04-25 14:06:27.352 AquaVet[40970:70b] Application:Started
+2014-04-25 14:06:30.958 AquaVet[40970:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:06:32.044 AquaVet[40970:70b] Activating [object Object]
+2014-04-25 14:06:32.230 AquaVet[40970:70b] Received Event: splash
+2014-04-25 14:06:33.857 AquaVet[40970:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:06:33.858 AquaVet[40970:70b] Binding views/shell [object Object]
+2014-04-25 14:06:33.941 AquaVet[40970:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:06:35.271 AquaVet[40970:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:07:18.118 AquaVet[41637:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:07:18.124 AquaVet[41637:70b] Unlimited access to network resources
+2014-04-25 14:07:18.182 AquaVet[41637:70b] Resetting plugins due to page load.
+2014-04-25 14:07:18.399 AquaVet[41637:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:07:18.423 AquaVet[41637:70b] Debug:Enabled
+2014-04-25 14:07:18.423 AquaVet[41637:70b] Application:Starting
+2014-04-25 14:07:18.447 AquaVet[41637:70b] Plugin:Installed plugins/router
+2014-04-25 14:07:18.447 AquaVet[41637:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:07:18.448 AquaVet[41637:70b] Plugin:Installed plugins/widget
+2014-04-25 14:07:18.448 AquaVet[41637:70b] Received Event: deviceready
+2014-04-25 14:07:18.448 AquaVet[41637:70b] Application:Started
+2014-04-25 14:07:21.966 AquaVet[41637:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:07:23.193 AquaVet[41637:70b] Activating [object Object]
+2014-04-25 14:07:23.400 AquaVet[41637:70b] Received Event: splash
+2014-04-25 14:07:24.906 AquaVet[41637:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:07:24.906 AquaVet[41637:70b] Binding views/shell [object Object]
+2014-04-25 14:07:24.986 AquaVet[41637:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:07:26.277 AquaVet[41637:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:09:00.442 AquaVet[42306:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:09:00.448 AquaVet[42306:70b] Unlimited access to network resources
+2014-04-25 14:09:00.563 AquaVet[42306:70b] Resetting plugins due to page load.
+2014-04-25 14:09:00.797 AquaVet[42306:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:09:00.832 AquaVet[42306:70b] Debug:Enabled
+2014-04-25 14:09:00.832 AquaVet[42306:70b] Application:Starting
+2014-04-25 14:09:00.864 AquaVet[42306:70b] Plugin:Installed plugins/router
+2014-04-25 14:09:00.865 AquaVet[42306:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:09:00.865 AquaVet[42306:70b] Plugin:Installed plugins/widget
+2014-04-25 14:09:00.865 AquaVet[42306:70b] Received Event: deviceready
+2014-04-25 14:09:00.866 AquaVet[42306:70b] Application:Started
+2014-04-25 14:09:04.654 AquaVet[42306:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:09:05.585 AquaVet[42306:70b] Activating [object Object]
+2014-04-25 14:09:05.831 AquaVet[42306:70b] Received Event: splash
+2014-04-25 14:09:07.249 AquaVet[42306:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:09:07.250 AquaVet[42306:70b] Binding views/shell [object Object]
+2014-04-25 14:09:07.329 AquaVet[42306:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:09:08.545 AquaVet[42306:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:10:54.751 AquaVet[42976:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:10:54.760 AquaVet[42976:70b] Unlimited access to network resources
+2014-04-25 14:10:54.879 AquaVet[42976:70b] Resetting plugins due to page load.
+2014-04-25 14:10:55.107 AquaVet[42976:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:10:55.148 AquaVet[42976:70b] Debug:Enabled
+2014-04-25 14:10:55.149 AquaVet[42976:70b] Application:Starting
+2014-04-25 14:10:55.181 AquaVet[42976:70b] Plugin:Installed plugins/router
+2014-04-25 14:10:55.181 AquaVet[42976:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:10:55.182 AquaVet[42976:70b] Plugin:Installed plugins/widget
+2014-04-25 14:10:55.182 AquaVet[42976:70b] Received Event: deviceready
+2014-04-25 14:10:55.182 AquaVet[42976:70b] Application:Started
+2014-04-25 14:10:58.899 AquaVet[42976:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:10:59.852 AquaVet[42976:70b] Activating [object Object]
+2014-04-25 14:11:00.045 AquaVet[42976:70b] Received Event: splash
+2014-04-25 14:11:02.695 AquaVet[42976:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:11:02.695 AquaVet[42976:70b] Binding views/shell [object Object]
+2014-04-25 14:11:02.776 AquaVet[42976:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:11:04.125 AquaVet[42976:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:11:53.116 AquaVet[43644:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:11:53.122 AquaVet[43644:70b] Unlimited access to network resources
+2014-04-25 14:11:53.232 AquaVet[43644:70b] Resetting plugins due to page load.
+2014-04-25 14:11:53.464 AquaVet[43644:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:11:53.502 AquaVet[43644:70b] Debug:Enabled
+2014-04-25 14:11:53.503 AquaVet[43644:70b] Application:Starting
+2014-04-25 14:11:53.525 AquaVet[43644:70b] Plugin:Installed plugins/router
+2014-04-25 14:11:53.526 AquaVet[43644:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:11:53.526 AquaVet[43644:70b] Plugin:Installed plugins/widget
+2014-04-25 14:11:53.527 AquaVet[43644:70b] Received Event: deviceready
+2014-04-25 14:11:53.527 AquaVet[43644:70b] Application:Started
+2014-04-25 14:11:57.167 AquaVet[43644:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:11:58.109 AquaVet[43644:70b] Activating [object Object]
+2014-04-25 14:11:58.295 AquaVet[43644:70b] Received Event: splash
+2014-04-25 14:12:00.157 AquaVet[43644:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:12:00.157 AquaVet[43644:70b] Binding views/shell [object Object]
+2014-04-25 14:12:00.235 AquaVet[43644:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:12:01.944 AquaVet[43644:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:14:08.907 AquaVet[44317:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:14:08.914 AquaVet[44317:70b] Unlimited access to network resources
+2014-04-25 14:14:09.044 AquaVet[44317:70b] Resetting plugins due to page load.
+2014-04-25 14:14:09.291 AquaVet[44317:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:14:09.342 AquaVet[44317:70b] Debug:Enabled
+2014-04-25 14:14:09.342 AquaVet[44317:70b] Application:Starting
+2014-04-25 14:14:09.368 AquaVet[44317:70b] Plugin:Installed plugins/router
+2014-04-25 14:14:09.368 AquaVet[44317:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:14:09.368 AquaVet[44317:70b] Plugin:Installed plugins/widget
+2014-04-25 14:14:53.417 AquaVet[44986:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:14:53.423 AquaVet[44986:70b] Unlimited access to network resources
+2014-04-25 14:14:53.542 AquaVet[44986:70b] Resetting plugins due to page load.
+2014-04-25 14:14:53.778 AquaVet[44986:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:14:53.818 AquaVet[44986:70b] Debug:Enabled
+2014-04-25 14:14:53.818 AquaVet[44986:70b] Application:Starting
+2014-04-25 14:14:53.838 AquaVet[44986:70b] Plugin:Installed plugins/router
+2014-04-25 14:14:53.838 AquaVet[44986:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:14:53.839 AquaVet[44986:70b] Plugin:Installed plugins/widget
+2014-04-25 14:14:53.839 AquaVet[44986:70b] Received Event: deviceready
+2014-04-25 14:14:53.839 AquaVet[44986:70b] Application:Started
+2014-04-25 14:14:57.852 AquaVet[44986:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:14:58.815 AquaVet[44986:70b] Activating [object Object]
+2014-04-25 14:14:59.005 AquaVet[44986:70b] Received Event: splash
+2014-04-25 14:15:01.104 AquaVet[44986:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:15:01.105 AquaVet[44986:70b] Binding views/shell [object Object]
+2014-04-25 14:15:01.186 AquaVet[44986:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:15:02.540 AquaVet[44986:70b] Binding widgets/itemsControl/view [object Object]
+2014-04-25 14:20:33.244 AquaVet[45673:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-25 14:20:33.273 AquaVet[45673:70b] Unlimited access to network resources
+2014-04-25 14:20:33.558 AquaVet[45673:70b] Resetting plugins due to page load.
+2014-04-25 14:20:33.820 AquaVet[45673:70b] Finished load of: file:///Users/oceabergen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AB6DAA5-5684-40D4-BDCB-B5E592CDCF41/AquaVet.app/www/index.html
+2014-04-25 14:20:33.852 AquaVet[45673:70b] Debug:Enabled
+2014-04-25 14:20:33.852 AquaVet[45673:70b] Application:Starting
+2014-04-25 14:20:33.878 AquaVet[45673:70b] Plugin:Installed plugins/router
+2014-04-25 14:20:33.879 AquaVet[45673:70b] Plugin:Installed plugins/dialog
+2014-04-25 14:20:33.879 AquaVet[45673:70b] Plugin:Installed plugins/widget
+2014-04-25 14:20:33.879 AquaVet[45673:70b] Received Event: deviceready
+2014-04-25 14:20:33.880 AquaVet[45673:70b] Application:Started
+2014-04-25 14:20:37.684 AquaVet[45673:70b] [viewmodels/shell]  TempHire Loaded!
+2014-04-25 14:20:38.732 AquaVet[45673:70b] Activating [object Object]
+2014-04-25 14:20:38.947 AquaVet[45673:70b] Received Event: splash
+2014-04-25 14:20:41.097 AquaVet[45673:70b] Navigation Complete [object Object] [object Object]
+2014-04-25 14:20:41.097 AquaVet[45673:70b] Binding views/shell [object Object]
+2014-04-25 14:20:41.175 AquaVet[45673:70b] Binding views/assessment/assessmentlist [object Object]
+2014-04-25 14:20:42.422 AquaVet[45673:70b] Binding widgets/itemsControl/view [object Object]
