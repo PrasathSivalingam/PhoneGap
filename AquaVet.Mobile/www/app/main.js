@@ -23,6 +23,9 @@
         'jqm': {
             deps: ['jqm-conf'],
             exports: 'Mobile'
+        },
+        'jquery': {
+            exports: '$'
         }
     }
 });
@@ -74,6 +77,7 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system', 'durandal/bin
        },
        onDataLoaded: function () {
            phonegapApp.receivedEvent('splash');
+           phonegapApp.checkConnection();
        },
        // Update DOM on a Received Event
        receivedEvent: function (id) {
@@ -86,12 +90,27 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system', 'durandal/bin
                receivedElement.setAttribute('style', 'display:block;');
            } else {
                parentElement.setAttribute('style', 'display:none;');
-               var mainElement = document.getElementById("applicationHost");
+               var mainElement = document.getElementById("home");
                mainElement.setAttribute('style', 'display:block;');
            }
        
        console.log('Received Event: ' + id);
-       }
+       },
+       checkConnection:function () {
+           var networkState = navigator.connection.type;
+
+        var states = {};
+        states[Connection.UNKNOWN]  = 'Unknown connection';
+        states[Connection.ETHERNET] = 'Ethernet connection';
+        states[Connection.WIFI]     = 'WiFi connection';
+        states[Connection.CELL_2G]  = 'Cell 2G connection';
+        states[Connection.CELL_3G]  = 'Cell 3G connection';
+        states[Connection.CELL_4G]  = 'Cell 4G connection';
+        states[Connection.NONE]     = 'No network connection';
+
+        alert('Connection type: ' + states[networkState]);
+    }
+
        };
         app.start().then(function() {
                          

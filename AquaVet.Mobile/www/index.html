@@ -54,13 +54,31 @@
             </div>
             
         </div>
-        <div data-role="page" id="applicationHost" style="display: none">
-
+        <div id="menu" style="display: none;">
+            <h3>Menu</h3>
+            <ul>
+                <li>
+                    <ul>
+                        <li class="active"><a href="#home" class="contentLink">Status </a></li>
+                        <li><a href="#home" class="contentLink">Assessment </a></li>
+                        <li><a href="#home" class="contentLink">Benchmarking </a></li>
+                        <li><a href="#home" class="contentLink">Contacts </a></li>
+                        <li><a href="#home" class="contentLink">Settings </a></li>
+                    </ul>        
+                </li>
+                <li>
+                    <h3>Connection : <span id="connection"></span></h3>        
+                </li>
+            </ul>
+            <input type="button" class="ui-btn ui-icon-recycle ui-btn-icon-left" value="Sync">
+            
+        </div>
+        <div data-role="page" id="home" class="pages" style="display: none">
+            <div id="applicationHost"></div>
         </div>
         
         <script src="js/require.js" data-main="app/main"></script>
         <script type="text/javascript" src="cordova.js"></script>
         <script src="js/require.js" data-main="app/main"></script>
-        
     </body>
 </html>

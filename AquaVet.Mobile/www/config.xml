@@ -9,4 +9,6 @@
   <access origin="*" />
   <preference name="phonegap-version" value="3.3.0" />
   <gap:plugin name="org.apache.cordova.splashscreen" />
+  <gap:plugin name="com.phonegap.plugin.statusbar" />
+  <gap:plugin name="org.apache.cordova.NetworkManager" />
 </widget>
