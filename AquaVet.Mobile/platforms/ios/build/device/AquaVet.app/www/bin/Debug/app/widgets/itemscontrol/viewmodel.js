@@ -1,9 +1,10 @@
-﻿/// <reference path="../../_typings.ts" />
+
 define(["require", "exports"], function (require, exports) {
     var ItemsControl = (function () {
         function ItemsControl() {
         }
         ItemsControl.prototype.activate = function (settings) {
+                        alert("inside itemscontrol");
             this.headerProperty = settings.headerProperty;
             this.items = settings.items;
         };
@@ -30,4 +31,3 @@ define(["require", "exports"], function (require, exports) {
         exports.ic.attached();
     };
 });
-//# sourceMappingURL=viewmodel.js.map

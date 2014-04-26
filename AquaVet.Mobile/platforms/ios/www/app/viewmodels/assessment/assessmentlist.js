@@ -16,7 +16,6 @@
             return this.loadAssessments().then(function () {
                 var event = new Event('dataLoaded');
                 document.dispatchEvent(event);
-                                               alert("feeling good");
             }).fail(function (error) { alert("faild" + error); });
         };
 

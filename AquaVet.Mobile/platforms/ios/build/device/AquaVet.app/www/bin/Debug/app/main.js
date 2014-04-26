@@ -5,25 +5,45 @@
         'plugins': '../js/durandal/plugins',
         'transitions': '../js/durandal/transitions',
         'knockout': '../js/knockout-3.1.0',
-                'bootstrap': '../js/bootstrap',
+        'bootstrap': '../js/bootstrap',
         'jquery': '../js/jquery-2.1.0',
-                 'index': '../js/index',
+        'index': '../js/index',
+        'jqm': '../js/jquery.mobile/jquery.mobile-1.4.2',
+        'jqm-conf': '../js/jquery.mobile/jqm-config'
     },
-               shim: {
-               'bootstrap': {
-               deps: ['jquery'],
-               exports: 'jQuery'
-               }
-               }
+    shim: {
+        'bootstrap': {
+            deps: ['jquery'],
+            exports: 'jQuery'
+        },
+        'jqm-conf': {
+            deps: ['jquery'],
+            exports: 'jqmConfig'
+        },
+        'jqm': {
+            deps: ['jqm-conf'],
+            exports: 'Mobile'
+        }
+    }
 });
 define('jquery', function () { return jQuery; });
 define('knockout', ko);
 
-define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
-    function(app, viewLocator, system) {
+define(['durandal/app', 'durandal/viewLocator', 'durandal/system', 'durandal/binder', 'utils/routines'],
+    function(app, viewLocator, system,binder,routines) {
 
         // Enable debug message to show in the console 
         system.debug(true);
+
+        require(['jqm'], function (jqm) {
+            console.log("jQuery Mobile loaded...");
+        });
+
+        binder.bindingComplete = function (data, view, instruction) {
+            console.log("---------- bindingComplete --------");
+            //if (data.__moduleId__ !== "viewmodels/shell")
+                routines.triggerCreate(view);
+        };
         app.title = 'AquaVet';
         
         // Specify which plugins to install und their configuation
@@ -66,6 +86,8 @@ define(['durandal/app', 'durandal/viewLocator', 'durandal/system'],
                receivedElement.setAttribute('style', 'display:block;');
            } else {
                parentElement.setAttribute('style', 'display:none;');
+               var mainElement = document.getElementById("applicationHost");
+               mainElement.setAttribute('style', 'display:block;');
            }
        
        console.log('Received Event: ' + id);

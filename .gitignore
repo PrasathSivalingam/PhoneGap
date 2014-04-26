@@ -1,0 +1,9 @@
+
+*.dat
+
+*.dep
+
+*.dat
+
+AquaVet.Mobile/platforms/ios/build/device/AquaVet.app/_CodeSignature/CodeResources
+AquaVet.Mobile/platforms/
